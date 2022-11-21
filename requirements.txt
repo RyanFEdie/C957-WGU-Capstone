@@ -1,13 +1,10 @@
-os
 simplekml
 tensorflow
 numpy
-keras
-python-cv2
-csv
-pillow
+opencv-python
+Pillow
 openlocationcode
-matplotlib.pyplot
+matplotlib
 geopy
 ipyleaflet
 ipywidgets
