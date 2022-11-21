@@ -8,3 +8,4 @@ matplotlib
 geopy
 ipyleaflet
 ipywidgets
+tqdm
