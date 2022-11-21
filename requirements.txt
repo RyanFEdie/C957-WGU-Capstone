@@ -1,0 +1,13 @@
+os
+simplekml
+tensorflow
+numpy
+keras
+python-cv2
+csv
+pillow
+openlocationcode
+matplotlib.pyplot
+geopy
+ipyleaflet
+ipywidgets
